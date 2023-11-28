@@ -1,0 +1,34 @@
+# Image Instructions
+
+Thank you for contributing to our face recognition project! Please follow these guidelines when adding images:
+
+1. **Image Quality:**
+   - Ensure the image is clear and well-lit.
+   - The face of the person should be visible without significant shadows or obstructions.
+
+2. **Image Format:**
+   - Preferred image formats: JPEG, PNG, JPG or any format is accepted. 
+   - High-resolution images are recommended for better recognition accuracy.
+
+3. **Subject Position:**
+   - The person's face should be the primary focus of the image.
+   - Avoid images where the face is too small or occupies only a small portion of the image.
+
+4. **Single Person:**
+   - Provide images with only one person in focus.
+   - If multiple people are present, crop the image to include only the target person.
+
+5. **File Naming:**
+   - Use a clear and concise naming convention for the image files.
+   - Example: `John Doe.jpg`
+
+6. **Avoid Obstructions:**
+   - Ensure there are no accessories or items obstructing the person's face (e.g., sunglasses, hats).
+
+7. **Neutral Expression:**
+   - Prefer images where the person has a neutral facial expression.
+
+8. **Upload to 'images' Directory:**
+   - Place the image file in the 'images' directory.
+
+Thank you for your cooperation! If you have any questions or need further assistance, feel free to reach out.
